@@ -1,0 +1,8 @@
+{
+  "twitter": {
+    "consumer_key": "insert consumer key",
+    "consumer_secret": "insert consumer secret",
+    "access_token": "insert access token",
+    "access_token_secret": "insert access token secret"
+  }
+}
